@@ -1,5 +1,6 @@
-streamlit - important for dashboard
-yfinance
-requests
+streamlit
 pandas
-scikit-learn
+numpy
+yfinance
+plotly
+matplotlib
