@@ -1,0 +1,5 @@
+streamlit - important for dashboard
+yfinance
+requests
+pandas
+scikit-learn
